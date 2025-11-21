@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Douglas Domingues — Cientista de Dados</h1>
+<h3 align="center">Transformando dados em insights estratégicos e impacto real para o negócio</h3>
 
-<!--
-**douglasdev-domingues92/douglasdev-domingues92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Atualmente:** Consultor em Ciência de Dados com experiência em People Analytics e Setor Financeiro  
+🔹 **Formação em andamento:** Pós-graduação em Data Science e Analytics – USP/ESALQ - Previsão de Término: Novembro/2025
 
-Here are some ideas to get you started:
+🔹 **Contato profissional:** [LinkedIn](https://www.linkedin.com/in/douglas-domingues-84b17b28/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Competências e Habilidades
+
+- **Linguagens e Ferramentas:** Python, PySpark, SQL, Power BI, Git, Jupyter  
+- **Machine Learning:** Regressão, Classificação, Árvores de Decisão, Clusterização
+- **Processos Analíticos:** Exploração de Dados, Análises Descritivas, Construção de Pipelines, Modelagem Preditiva
+- **Estatística Aplicada:** Fundamentos de Estatística Descritiva e Inferencial para suporte à análise de dados
+- **Objetivo:** Aplicar ciência de dados para gerar insights estratégicos e apoiar decisões de negócio
+
+---
+
+## 💼 Projetos do Portfólio (Em Planejamento)
+
+| Projeto | Descrição | Tecnologias | Objetivo Estratégico | Status | Repositório |
+|---------|-----------|------------|-------------------|--------|-------------|
+| **Predição de Turnover (People Analytics)** | Classificação binária para identificar risco de desligamento de colaboradores | Python, ML, Power BI | Desenvolver modelo preditivo para apoiar decisões de gestão de talentos | ![Em Planejamento](https://img.shields.io/badge/Status-Planejamento-orange) | [Repo](#) |
+| **Segmentação de Clientes** | Clusterização para agrupar clientes por comportamento e perfil de risco | Python, ML | Criar segmentações estratégicas para otimizar produtos e campanhas | ![Em Planejamento](https://img.shields.io/badge/Status-Planejamento-orange) | [Repo](#) |
+| **Risco de Crédito** | Classificação para prever inadimplência de clientes | Python, ML, Power BI | Construir modelo que apoie decisões de concessão de crédito | ![Em Planejamento](https://img.shields.io/badge/Status-Planejamento-orange) | [Repo](#) |
+| **Classificação de Textos (NLP)** | Análise textual, TF-IDF e nuvem de palavras para categorização de documentos | Python, NLP | Estruturar dados textuais e gerar insights estratégicos | ![Em Planejamento](https://img.shields.io/badge/Status-Planejamento-orange) | [Repo](#) |
+| **Classificador de Documentos de P&D (IA Generativa)** | Aplicação de LLM para elegibilidade de projetos submetidos ao MCTI | Python, LLM | Automatizar triagem de projetos e apoiar processos de inovação | ![Em Planejamento](https://img.shields.io/badge/Status-Planejamento-orange) | [Repo](#) |
+
+> Todos os projetos estão em planejamento e servirão como demonstração prática das minhas habilidades em ciência de dados, análise estratégica e visualização de insights. Os repositórios serão disponibilizados à medida que os projetos forem avançando.
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="left">
+<a href="https://www.linkedin.com/in/douglas-domingues-84b17b28/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://instagram.com/douglas.domingues92" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+</p>
